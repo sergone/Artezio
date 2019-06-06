@@ -1,2 +1,2 @@
 Create new file
-This file cosist of two string
+This file consist of two string
