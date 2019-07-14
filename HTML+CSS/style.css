@@ -1,0 +1,31 @@
+html {background-color: ORANGE;}
+body {background-color: white; 
+	  margin: 0px 300px;
+	  min-width: 600;
+	  padding: 25px;
+	  }
+.about_me {
+	padding: 50px;
+}
+
+.education {
+	
+	padding: 100px;
+}
+
+.experience {
+	padding: 10px;
+}
+
+.information {
+	padding: 10px;
+}
+
+#me {
+	float: left;
+	width: 70%;
+}
+#foto {
+	float: right;
+	width: 30%;
+}
